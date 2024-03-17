@@ -30,4 +30,4 @@ These request have the role of editing and getting information of that specific 
 
 ## Requirments
 
-For this API testing special authentification is required, the steps to properly test Spotify API is present here [https://developer.spotify.com/documentation/web-api/tutorials/getting-started#request-an-access-token](url) but also for other requests there is another documentation to gain access here [https://developer.spotify.com/documentation/web-api/tutorials/code-flow](url)
+For this API testing special authentification is required, the steps to properly test Spotify API is present [here]([url](https://developer.spotify.com/documentation/web-api/tutorials/code-flow)) but also for other requests there is another documentation to gain access at this [page]([url](https://developer.spotify.com/documentation/web-api/tutorials/code-flow)https://developer.spotify.com/documentation/web-api/tutorials/code-flow)
